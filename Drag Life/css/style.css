@@ -1,0 +1,20 @@
+.dealer-car{
+width:550px;
+display:block;
+margin:20px auto;
+}
+
+.dealer-stats{
+text-align:center;
+margin-top:10px;
+}
+
+.dealer-controls{
+text-align:center;
+margin-top:15px;
+}
+
+.dealer-controls button{
+margin:5px;
+padding:8px 14px;
+}
